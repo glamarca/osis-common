@@ -1,0 +1,171 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-21 15:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#, python-format
+msgid ""
+"%(function_name)s is not a function of a super-class of %(subclass_name)s "
+"[%(super_classes_names)s]"
+msgstr ""
+
+#, python-format
+msgid "%(subclass_name)s is not a sub-class"
+msgstr ""
+
+msgid "Academic year"
+msgstr ""
+
+msgid "Created by"
+msgstr ""
+
+msgid "Creation date"
+msgstr ""
+
+msgid "Decimals authorized for this learning unit"
+msgstr ""
+
+msgid "Deliberation date"
+msgstr ""
+
+msgid "Done at"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Enrolled lately"
+msgstr ""
+
+msgid "False"
+msgstr ""
+
+msgid "Fax"
+msgstr ""
+
+msgid "File name"
+msgstr ""
+
+msgid "Firstname"
+msgstr ""
+
+msgid ""
+"In accordance to regulation's rules 104, 109 and 111. Complete rules "
+"avalaible here"
+msgstr ""
+
+msgid "Justification (A,T)"
+msgstr ""
+
+msgid "Justification legend: A=Absent, T=Cheating"
+msgstr ""
+
+msgid "Lastname"
+msgstr ""
+
+msgid "Message error : size and content"
+msgstr ""
+
+msgid "Migration persistence error"
+msgstr ""
+
+msgid "No email has been sent because a technical error occured."
+msgstr ""
+
+#, python-format
+msgid ""
+"No messages were sent : the message template %(html_template_ref)s does not "
+"exist."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Parameters"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Program"
+msgstr ""
+
+msgid "Reg. No."
+msgstr ""
+
+msgid "Score"
+msgstr ""
+
+#, python-brace-format
+msgid "Score legend: {score} (0=Score of presence)"
+msgstr ""
+
+msgid "Score sheet"
+msgstr ""
+
+msgid "Scores responsible"
+msgstr ""
+
+msgid "Signature"
+msgstr ""
+
+msgid "Submit data"
+msgstr ""
+
+#, python-format
+msgid ""
+"The data presented on this document correspond to the state of the system "
+"dated %(creation_date)s and are likely to evolve"
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"This is a test email sent from OSIS, only sent to {new_dest_address}. "
+"Planned receivers were : {receivers_addresses}."
+msgstr ""
+
+msgid "True"
+msgstr ""
+
+msgid "Unauthorized decimal for this learning unit"
+msgstr ""
+
+msgid "Université catholique de Louvain"
+msgstr ""
+
+msgid "Unsubscribed lately"
+msgstr ""
+
+msgid "description"
+msgstr ""
+
+msgid "file"
+msgstr ""
+
+msgid "https://uclouvain.be/fr/decouvrir/rgee.html"
+msgstr ""
+
+msgid "sheet"
+msgstr ""
+
+msgid "student"
+msgstr ""
+
+msgid "students"
+msgstr ""
+
+msgid "the"
+msgstr ""
